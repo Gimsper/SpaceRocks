@@ -1,0 +1,1 @@
+draw_text(24, 24, points);

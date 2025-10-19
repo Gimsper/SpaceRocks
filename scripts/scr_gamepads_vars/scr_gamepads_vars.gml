@@ -1,0 +1,2 @@
+gamepads = []
+mainGamepad = undefined
