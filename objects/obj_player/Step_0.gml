@@ -1,5 +1,5 @@
 var move = keyboard_check(ord("W"));
-var hor = keyboard_check(ord("A")) - keyboard_check(ord("D"));
+var hor = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var fire = keyboard_check_pressed(vk_space);
 
 var gp = global.mainGamepad

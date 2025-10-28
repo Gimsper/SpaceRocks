@@ -8,8 +8,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_power_parent","path":"objects/obj_power_parent/obj_power_parent.yy",},"propertyId":{"name":"type","path":"objects/obj_power_parent/obj_power_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
   ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Powers",
+    "path":"folders/Objects/Powers.yy",
   },
   "parentObjectId":{
     "name":"obj_power_parent",
